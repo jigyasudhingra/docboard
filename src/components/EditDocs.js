@@ -63,7 +63,7 @@ export default function EditDocs({
                 autoClose: 2000
             })
         })
-        window.location.href = "/"
+        window.location.href = "/docboard"
     }
 
     useEffect(() => {
